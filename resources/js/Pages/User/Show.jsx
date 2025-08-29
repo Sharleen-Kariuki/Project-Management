@@ -1,4 +1,4 @@
-import { USER_STATUS_CLASS_MAP, USER_STATUS_TEXT_MAP } from "@/constants";
+import { USER_STATUS_CLASS_MAP, USER_STATUS_TEXT_MAP } from "@/constants.jsx";
 import AuthenticatedLayout from "@/Layouts/AuthenticatedLayout";
 import { Head } from "@inertiajs/react";
 import TasksTable from "../Task/TasksTable";
